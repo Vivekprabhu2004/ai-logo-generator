@@ -33,5 +33,3 @@ This is a simple AI-based Logo Generator built using Stable Diffusion and Google
 - HuggingFace Diffusers
 - Google Colab
 
-## 📜 License
-MIT License
